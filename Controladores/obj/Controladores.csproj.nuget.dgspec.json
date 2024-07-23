@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josem\\Downloads\\Final_Proyecto_Consultorio\\Controladores\\Controladores.csproj": {}
+    "C:\\Users\\josem\\OneDrive\\Escritorio\\Final_Proyecto_Consultorio\\Controladores\\Controladores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josem\\Downloads\\Final_Proyecto_Consultorio\\Controladores\\Controladores.csproj": {
+    "C:\\Users\\josem\\OneDrive\\Escritorio\\Final_Proyecto_Consultorio\\Controladores\\Controladores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josem\\Downloads\\Final_Proyecto_Consultorio\\Controladores\\Controladores.csproj",
+        "projectUniqueName": "C:\\Users\\josem\\OneDrive\\Escritorio\\Final_Proyecto_Consultorio\\Controladores\\Controladores.csproj",
         "projectName": "Controladores",
-        "projectPath": "C:\\Users\\josem\\Downloads\\Final_Proyecto_Consultorio\\Controladores\\Controladores.csproj",
+        "projectPath": "C:\\Users\\josem\\OneDrive\\Escritorio\\Final_Proyecto_Consultorio\\Controladores\\Controladores.csproj",
         "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josem\\Downloads\\Final_Proyecto_Consultorio\\Controladores\\obj\\",
+        "outputPath": "C:\\Users\\josem\\OneDrive\\Escritorio\\Final_Proyecto_Consultorio\\Controladores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\josem\\Downloads\\Final_Proyecto_Consultorio\\Modelo\\Modelo.csproj": {
-                "projectPath": "C:\\Users\\josem\\Downloads\\Final_Proyecto_Consultorio\\Modelo\\Modelo.csproj"
+              "C:\\Users\\josem\\OneDrive\\Escritorio\\Final_Proyecto_Consultorio\\Modelo\\Modelo.csproj": {
+                "projectPath": "C:\\Users\\josem\\OneDrive\\Escritorio\\Final_Proyecto_Consultorio\\Modelo\\Modelo.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\josem\\Downloads\\Final_Proyecto_Consultorio\\Modelo\\Modelo.csproj": {
+    "C:\\Users\\josem\\OneDrive\\Escritorio\\Final_Proyecto_Consultorio\\Modelo\\Modelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josem\\Downloads\\Final_Proyecto_Consultorio\\Modelo\\Modelo.csproj",
+        "projectUniqueName": "C:\\Users\\josem\\OneDrive\\Escritorio\\Final_Proyecto_Consultorio\\Modelo\\Modelo.csproj",
         "projectName": "Modelo",
-        "projectPath": "C:\\Users\\josem\\Downloads\\Final_Proyecto_Consultorio\\Modelo\\Modelo.csproj",
+        "projectPath": "C:\\Users\\josem\\OneDrive\\Escritorio\\Final_Proyecto_Consultorio\\Modelo\\Modelo.csproj",
         "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josem\\Downloads\\Final_Proyecto_Consultorio\\Modelo\\obj\\",
+        "outputPath": "C:\\Users\\josem\\OneDrive\\Escritorio\\Final_Proyecto_Consultorio\\Modelo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config",

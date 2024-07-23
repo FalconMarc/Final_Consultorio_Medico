@@ -1869,11 +1869,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josem\\Downloads\\Final_Proyecto_Consultorio\\Vista\\Vistas.csproj",
+      "projectUniqueName": "C:\\Users\\josem\\OneDrive\\Escritorio\\Final_Proyecto_Consultorio\\Vista\\Vistas.csproj",
       "projectName": "Vistas",
-      "projectPath": "C:\\Users\\josem\\Downloads\\Final_Proyecto_Consultorio\\Vista\\Vistas.csproj",
+      "projectPath": "C:\\Users\\josem\\OneDrive\\Escritorio\\Final_Proyecto_Consultorio\\Vista\\Vistas.csproj",
       "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josem\\Downloads\\Final_Proyecto_Consultorio\\Vista\\obj\\",
+      "outputPath": "C:\\Users\\josem\\OneDrive\\Escritorio\\Final_Proyecto_Consultorio\\Vista\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1890,11 +1890,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\josem\\Downloads\\Final_Proyecto_Consultorio\\Controladores\\Controladores.csproj": {
-              "projectPath": "C:\\Users\\josem\\Downloads\\Final_Proyecto_Consultorio\\Controladores\\Controladores.csproj"
+            "C:\\Users\\josem\\OneDrive\\Escritorio\\Final_Proyecto_Consultorio\\Controladores\\Controladores.csproj": {
+              "projectPath": "C:\\Users\\josem\\OneDrive\\Escritorio\\Final_Proyecto_Consultorio\\Controladores\\Controladores.csproj"
             },
-            "C:\\Users\\josem\\Downloads\\Final_Proyecto_Consultorio\\Modelo\\Modelo.csproj": {
-              "projectPath": "C:\\Users\\josem\\Downloads\\Final_Proyecto_Consultorio\\Modelo\\Modelo.csproj"
+            "C:\\Users\\josem\\OneDrive\\Escritorio\\Final_Proyecto_Consultorio\\Modelo\\Modelo.csproj": {
+              "projectPath": "C:\\Users\\josem\\OneDrive\\Escritorio\\Final_Proyecto_Consultorio\\Modelo\\Modelo.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yqodMqmgmyOqKn6ThN6PrelaEJNBc9jRzx5vg+TWFi0woFUIIZa49rChRcVQ7nlNzz4Ett6cqki2AfiWeBr6UQ==",
+  "dgSpecHash": "aQ3bWnoqa9ZIVpUIbpxSJvGLKJa4/LZtxvpUNmzDd4DiGIkOfrrYxJMIyuqqIbJ2gsRhfgtazDv1fJrswAOO+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josem\\Downloads\\Final_Proyecto_Consultorio\\Controladores\\Controladores.csproj",
+  "projectFilePath": "C:\\Users\\josem\\OneDrive\\Escritorio\\Final_Proyecto_Consultorio\\Controladores\\Controladores.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josem\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\josem\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",
