@@ -1,0 +1,11 @@
+C:\Users\josem\Downloads\Proyecto Jean\Modelo\bin\Debug\net8.0\Modelo.deps.json
+C:\Users\josem\Downloads\Proyecto Jean\Modelo\bin\Debug\net8.0\Modelo.dll
+C:\Users\josem\Downloads\Proyecto Jean\Modelo\bin\Debug\net8.0\Modelo.pdb
+C:\Users\josem\Downloads\Proyecto Jean\Modelo\obj\Debug\net8.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\Downloads\Proyecto Jean\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\josem\Downloads\Proyecto Jean\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfo.cs
+C:\Users\josem\Downloads\Proyecto Jean\Modelo\obj\Debug\net8.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\josem\Downloads\Proyecto Jean\Modelo\obj\Debug\net8.0\Modelo.dll
+C:\Users\josem\Downloads\Proyecto Jean\Modelo\obj\Debug\net8.0\refint\Modelo.dll
+C:\Users\josem\Downloads\Proyecto Jean\Modelo\obj\Debug\net8.0\Modelo.pdb
+C:\Users\josem\Downloads\Proyecto Jean\Modelo\obj\Debug\net8.0\ref\Modelo.dll

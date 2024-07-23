@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>servicios-de-consultoria.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="servicios-de-consultoria.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Controladores\Controladores.csproj" />
+    <ProjectReference Include="..\Modelo\Modelo.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Vista\Cita_Form\Agregar_Cita_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vista\Cita_Form\Cita_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vista\Medico_forms\AgregarMedico_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vista\Medico_forms\EditarMedico_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vista\Medico_forms\Medico_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
